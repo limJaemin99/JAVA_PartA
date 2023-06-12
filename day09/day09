@@ -1,0 +1,7 @@
+day09	(05.02)
+
+boolean, character, integer, long, double, ... 등등 원시타입에 대한 처리기능을 가진 Wrapper 클래스
+String에서 int, double, long, ... 원시타입으로 변환 : Wrapper 클래스.parseXXXX("문자열");
+int, double, long, ... 원시타입에서 String으로 변환 : String.valueOf(원시타입데이터);
+
+
